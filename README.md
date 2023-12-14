@@ -1,2 +1,2 @@
 # reboothww
-command for reboot modem stick e3372 huawei
+command for reboot modem stick e3372 huawei via telnet
